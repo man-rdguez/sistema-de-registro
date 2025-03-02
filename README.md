@@ -1,7 +1,7 @@
-<h1>Booking System</h1>
+<h1>Registration System</h1>
 
 - Project status: Under construction.
 
-For executing the system, yu must write:
+For executing the system, you must write:
 
 ```npm install react```
